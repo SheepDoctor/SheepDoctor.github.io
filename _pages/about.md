@@ -16,17 +16,20 @@ I am Bingwen Dong (董炳闻). I am currently persuing my Bachelor's degree at [
 - Depth estimation
 - Computer vision
 
+## Education 🎓
+- **Southern University of Science and Technology**, Shenzhen, China (09/2022 - now)
+  - B.Eng. in *Computer Science and Technology*
+  - GPA: 3.92/4.0 (ranking ~5%)
+  - Advisor: [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ), [Yan Hu](https://scholar.google.com/citations?user=rYLooucAAAAJ&hl=ja)
+
 ## Currently Working on 🛠
 - National Undergraduate Innovation and Entrepreneurship Project, with 10,000 RMB fundings by the government of China
   - The goal of the project is to develop a 3D reconstruction system for fundus area of our body, which can be used for medical diagnosis and treatment planning. 
 - Guangdong Province Climbing Plan, with 10,000 RMB fundings by the government of Guangdong Province, China
   - The goal of this project is to develop a accurate depth estimation system for fundus area, and will be integrated into the 3D reconstruction system.
 
-## Education 🎓
-- **Southern University of Science and Technology**, Shenzhen, China (09/2022 - now)
-  - B.Eng. in *Computer Science and Technology*
-  - GPA: 3.92/4.0 (ranking ~5%)
-  - Advisor: [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ), [Yan Hu](https://scholar.google.com/citations?user=rYLooucAAAAJ&hl=ja)
+## Papers 📄
+- Sadly, I have not published any papers yet. But there will be more papers soon.
 
 ## Honors & Awards 🏆
 ### Honors 
