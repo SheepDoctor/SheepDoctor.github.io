@@ -23,9 +23,13 @@ I am Bingwen Dong (董炳闻). I am currently persuing my Bachelor's degree at [
   - Advisor: [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ), [Yan Hu](https://scholar.google.com/citations?user=rYLooucAAAAJ&hl=ja)
 
 ## Honors & Awards 🏆
-### Honors
-- [2022-2023] The second prize of outstanding student scholarship in SUSTech
-- [2023-2024] The first prize of outstanding student scholarship in SUSTech
-### Awards
-- [2023] National seconde prize in China Undergraduate Mathematical Contest in Modeling
+### Honors 
+- [2023-2024] The first prize scholarship of outstanding student scholarship in SUSTech
+- [2023-2024] Outstanding Student of Southern University of Science and Technology
+- [2023-2024] Chengyi scholarship of Southern University of Science and Technology
+- [2022-2023] The second prize scholarship of outstanding student scholarship in SUSTech
+- [2022-2023] Outstanding Student of Southern University of Science and Technology
+
+### Awards 
 - [2024] The second prize in ASC Student Supercomputer Challenge
+- [2023] National seconde prize in China Undergraduate Mathematical Contest in Modeling
