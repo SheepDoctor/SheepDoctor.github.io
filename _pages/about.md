@@ -16,6 +16,12 @@ I am Bingwen Dong (董炳闻). I am currently persuing my Bachelor's degree at [
 - Depth estimation
 - Computer vision
 
+## Currently Working on 🛠
+- National Undergraduate Innovation and Entrepreneurship Project, with 10,000 RMB fundings by the government of China
+  - The goal of the project is to develop a 3D reconstruction system for fundus area of our body, which can be used for medical diagnosis and treatment planning. 
+- Guangdong Province Climbing Plan, with 10,000 RMB fundings by the government of Guangdong Province, China
+  - The goal of this project is to develop a accurate depth estimation system for fundus area, and will be integrated into the 3D reconstruction system.
+
 ## Education 🎓
 - **Southern University of Science and Technology**, Shenzhen, China (09/2022 - now)
   - B.Eng. in *Computer Science and Technology*
@@ -24,10 +30,10 @@ I am Bingwen Dong (董炳闻). I am currently persuing my Bachelor's degree at [
 
 ## Honors & Awards 🏆
 ### Honors 
-- [2023-2024] The first prize scholarship of outstanding student scholarship in SUSTech
+- [2023-2024] The first prize scholarship of outstanding student scholarship of Southern University of Science and Technology
 - [2023-2024] Outstanding Student of Southern University of Science and Technology
 - [2023-2024] Chengyi scholarship of Southern University of Science and Technology
-- [2022-2023] The second prize scholarship of outstanding student scholarship in SUSTech
+- [2022-2023] The second prize scholarship of outstanding student scholarship of Southern University of Science and Technology
 - [2022-2023] Outstanding Student of Southern University of Science and Technology
 
 ### Awards 
