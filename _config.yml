@@ -21,9 +21,9 @@ repository               : "SheepDoctor/SheepDoctor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Bingwen Dong"
-  pronouns         : "he / him"
+  pronouns         : "he/him"
   bio              : "He loves computer."
   location         : "iMED@Shenzhen"
   employer         : "Southern University of Science and Technology"
