@@ -19,7 +19,7 @@ I am Bingwen Dong (董炳闻). I am currently persuing my Bachelor's degree at [
 ## Education 🎓
 - **Southern University of Science and Technology**, Shenzhen, China (09/2022 - now)
   - B.Eng. in *Computer Science and Technology*
-  - GPA: 3.92/4.0 (ranking ~5%)
+  - GPA: 3.92/4.0
   - Advisor: [Jiang Liu](https://scholar.google.com.hk/citations?user=NHt3fUcAAAAJ), [Yan Hu](https://scholar.google.com/citations?user=rYLooucAAAAJ&hl=ja)
 
 ## Currently Working on 🛠
